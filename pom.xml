@@ -10,7 +10,6 @@
     <packaging>jar</packaging>
 
     <name>ISO2-2026-GrupoB04-Testing-P2</name>
-    <description>Problema 1: cálculo del coste de estancia en un aparcamiento</description>
 
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
